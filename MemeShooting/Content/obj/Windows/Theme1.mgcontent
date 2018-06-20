@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>D:/Project/MemeShooting/MemeShooting/Content/Theme1.mp3</SourceFile>
+  <SourceTime>2016-12-30T14:29:28.9223904+01:00</SourceTime>
+  <DestFile>D:/Project/MemeShooting/MemeShooting/Content/bin/Windows/Theme1.xnb</DestFile>
+  <DestTime>2016-12-30T15:19:39.4582368+01:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2016-03-30T08:36:08+02:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2016-03-30T08:36:08+02:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>D:/Project/MemeShooting/MemeShooting/Content/bin/Windows/Theme1.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>

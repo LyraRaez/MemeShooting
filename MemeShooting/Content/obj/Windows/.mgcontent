@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Project/MemeShooting/MemeShooting/Content/Score.spritefont</File>
+    <File>D:/Project/MemeShooting/MemeShooting/Content/Theme1.mp3</File>
+    <File>D:/Project/MemeShooting/MemeShooting/Content/shoot1.mp3</File>
+    <File>D:/Project/MemeShooting/MemeShooting/Content/ExplosionSound1.mp3</File>
+    <File>D:/Project/MemeShooting/MemeShooting/Content/GameOverSound.mp3</File>
+  </SourceFiles>
+</SourceFileCollection>
